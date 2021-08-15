@@ -1,0 +1,4 @@
+.mypy_cache
+.vscode
+.venv
+config.yaml

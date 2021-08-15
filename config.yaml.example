@@ -1,0 +1,11 @@
+---
+lastpass:
+  username: admin@example.com
+  password: changeme
+vaultMaps:
+  ethbyte:
+    Crypto: Crypto
+    Work\BL: BL
+  account:
+    Shared-dev: Dev
+    Shared-ops: Ops

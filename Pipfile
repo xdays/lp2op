@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+1password = "==0.6.1"
+lastpass-python = {ref = "put_shared_folder_name_as_group", git = "https://github.com/fushall/lastpass-python.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
